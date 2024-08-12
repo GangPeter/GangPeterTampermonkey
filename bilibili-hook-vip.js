@@ -14,7 +14,7 @@
 // @run-at        document-start
 // @noframes      true
 // @connect       bilibili.com
-// @version       0.0.14
+// @version       0.0.1
 // ==/UserScript==
 (function () {
     'use strict';
